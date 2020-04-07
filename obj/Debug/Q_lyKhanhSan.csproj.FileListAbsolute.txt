@@ -1,0 +1,8 @@
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\obj\Debug\Q_lyKhanhSan.csprojAssemblyReference.cache
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\obj\Debug\Q_lyKhanhSan.Properties.Resources.resources
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\obj\Debug\Q_lyKhanhSan.csproj.GenerateResource.cache
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\bin\Debug\Q_lyKhanhSan.exe
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\bin\Debug\Q_lyKhanhSan.pdb
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\obj\Debug\Q_lyKhanhSan.exe
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\obj\Debug\Q_lyKhanhSan.pdb
+C:\Users\Helios - Ngoc\source\repos\Q_lyKhanhSan\obj\Debug\Q_lyKhanhSan.FrmKhachSan.resources
